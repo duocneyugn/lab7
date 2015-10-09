@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * 
+ * @author Huy
+ *
+ */
 public class ConsoleInOut implements InOut
 {
    private Scanner in;
